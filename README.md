@@ -88,7 +88,7 @@ python main_advanced.py
 
 🎥 DEMONSTRAÇÃO EM VÍDEO
 
-- Link do vídeo no YouTube: 
+- Link do vídeo no YouTube: https://youtu.be/mUxOwwzbuGI
 
 ---
 
